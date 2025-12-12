@@ -11,7 +11,7 @@
 ### Kurs: Codecademy – Introduction to JavaScript
 
 * **Dauer:** ca. 15 Stunden
-* **Abgeschlossen am:** *[4. Semster]*
+* **Abgeschlossen am:** *[4. Semester]*
 * **Status:** abgeschlossen
 
 In diesem Kurs habe ich die Grundlagen von JavaScript gelernt und geübt. Dazu gehörten unter anderem:
