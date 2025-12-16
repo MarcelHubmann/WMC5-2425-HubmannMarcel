@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Async Await Beispiel</title>
+</head>
+<body>
+
+  <h1>Async / Await</h1>
+  <p>Öffne die Entwicklerkonsole (F12), um die Ausgabe zu sehen.</p>
+
+  <script>
+    function loadData() {
+      return new Promise((resolve, reject) => {
+        setTimeout(() => {
+          const success = true; // auf false setzen, um Fehler zu testen
+
+          if (success) {
+            resolve("Daten erfolgreich geladen");
+          } else {
+            reject("Fehler beim Laden der Daten");
+          }
+        }, 1500);
+      });
+    }
+
+    async function start() {
+      try {
+        console.log("Start");
+        const result = await loadData();
+        console.log(result);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+
+    start();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<script>
+  function loadData(callback) {
+    console.log("Daten werden geladen...");
+    setTimeout(() => {
+      callback("Serverdaten erfolgreich geladen");
+    }, 2000);
+  }
+
+  loadData((result) => {
+    console.log("Callback aufgerufen:");
+    console.log(result);
+  });
+</script>
+
+<!-- Im Browser öffnen und mit F12 in der Konsole die Ausgabe sehen-->

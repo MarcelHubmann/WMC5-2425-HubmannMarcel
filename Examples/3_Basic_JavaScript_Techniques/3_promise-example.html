@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Promise Beispiel</title>
+</head>
+<body>
+
+  <h1>Promise Beispiel</h1>
+  <p>Öffne die Entwicklerkonsole (F12), um die Ausgabe zu sehen.</p>
+
+  <script>
+    function doStep(stepNumber) {
+      return new Promise((resolve, reject) => {
+        setTimeout(() => {
+          console.log("Schritt " + stepNumber + " erledigt");
+          resolve();
+        }, 1000);
+      });
+    }
+
+    console.log("Start");
+
+    doStep(1)
+      .then(() => doStep(2))
+      .then(() => doStep(3))
+      .then(() => {
+        console.log("Alle Schritte abgeschlossen");
+      })
+      .catch(error => {
+        console.error("Fehler:", error);
+      });
+  </script>
+
+</body>
+</html>

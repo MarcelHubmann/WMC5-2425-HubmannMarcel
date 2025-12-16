@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Callback Hell Beispiel</title>
+</head>
+<body>
+
+  <h1>Callback Hell</h1>
+  <p>Öffne die Entwicklerkonsole (F12), um die Ausgabe zu sehen.</p>
+
+  <script>
+    console.log("Start");
+
+    setTimeout(() => {
+      console.log("Schritt 1 erledigt");
+
+      setTimeout(() => {
+        console.log("Schritt 2 erledigt");
+
+        setTimeout(() => {
+          console.log("Schritt 3 erledigt");
+        }, 1000);
+
+      }, 1000);
+
+    }, 1000);
+  </script>
+
+</body>
+</html>

@@ -60,4 +60,26 @@ In diesem Kurs wurde das theoretische Wissen vertieft und praktisch angewendet:
 
 ---
 
+## 3. JavaScript-Techniken
+
+### JavaScript Nuggets – Videoreihe
+
+* **Gesamtdauer:** ca. 1,5 Stunden
+* **Abgeschlossen am:** *[16.12.2025]*
+* **Status:** abgeschlossen
+
+Alle Videos wurden vollständig angesehen und inhaltlich nachvollzogen.
+
+Behandelte Themen:
+
+* Callback Functions
+* Callback Hell
+* Promises
+* Promise-Chains
+* `async` / `await`
+
+Durch diese Videos habe ich ein besseres Verständnis für asynchrones Programmieren in JavaScript entwickelt, was besonders bei API-Aufrufen und Serverkommunikation wichtig ist.
+
+---
+
 
