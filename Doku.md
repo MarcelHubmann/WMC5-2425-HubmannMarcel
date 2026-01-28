@@ -82,4 +82,26 @@ Durch diese Videos habe ich ein besseres Verständnis für asynchrones Programmi
 
 ---
 
+## 4. Node.js und Express
+
+### Node.js and Express.js – Full Course
+
+* **Dauer:** ca. 12 Stunden
+* **Abgeschlossen am:** *[28.01.2026]*
+* **Status:** abgeschlossen
+
+In diesem Kurs habe ich die Grundlagen der serverseitigen Webentwicklung mit Node.js und Express kennengelernt und praktisch umgesetzt.
+
+Behandelte Themen:
+
+* Grundlagen von Node.js
+* Arbeiten mit npm
+* Erstellen eines Webservers mit Express
+* Routing (GET, POST)
+* Middleware
+* Umgang mit Request- und Response-Objekten
+* Aufbau einfacher REST-APIs
+* Grundlegende Fehlerbehandlung
+
+Durch diesen Kurs habe ich ein grundlegendes Verständnis für Backend-Entwicklung aufgebaut und gelernt, wie Client-Anfragen verarbeitet und serverseitig beantwortet werden.
 

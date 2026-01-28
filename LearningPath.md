@@ -31,7 +31,7 @@ Document your progress by creating summaries and programming the examples. Push 
 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
-   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 50 % or "4h"       |no       |
+   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 100 % or "48h 17min"       |yes       |
 
 ## Optional Additional Sources
 
