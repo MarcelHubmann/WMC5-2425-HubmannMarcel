@@ -105,3 +105,24 @@ Behandelte Themen:
 
 Durch diesen Kurs habe ich ein grundlegendes Verständnis für Backend-Entwicklung aufgebaut und gelernt, wie Client-Anfragen verarbeitet und serverseitig beantwortet werden.
 
+---
+
+## 5. JavaScript DOM Manipulation
+
+### Learn JavaScript DOM Manipulation – Tutorial for Beginners
+
+* **Dauer:** ca. 1 Stunde
+* **Abgeschlossen am:** *[29.01.2026]*
+* **Status:** abgeschlossen
+
+In diesem Video habe ich die Grundlagen der DOM-Manipulation mit JavaScript kennengelernt. Dabei wurde gezeigt, wie HTML-Elemente über JavaScript ausgewählt, verändert und dynamisch erstellt werden können.
+
+Behandelte Themen:
+
+* Auswahl von Elementen (`getElementById`, `querySelector`)
+* Ändern von Textinhalten und Attributen
+* Manipulation von CSS über JavaScript
+* Arbeiten mit Events (z. B. Click-Events)
+* Dynamisches Hinzufügen und Entfernen von Elementen
+
+Durch dieses Video habe ich ein besseres Verständnis dafür entwickelt, wie JavaScript mit dem HTML-Dokument interagiert und wie dynamische Benutzeroberflächen umgesetzt werden können.

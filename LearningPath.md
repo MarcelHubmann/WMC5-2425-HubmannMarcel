@@ -35,4 +35,4 @@ Document your progress by creating summaries and programming the examples. Push 
 
 ## Optional Additional Sources
 
-- [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
+- [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE) | 0h 37min      | 100 %        |yes       |

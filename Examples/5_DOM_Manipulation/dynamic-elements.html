@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>DOM Manipulation – Dynamisch</title>
+</head>
+<body>
+
+  <button id="addBtn">Element hinzufügen</button>
+  <ul id="list"></ul>
+
+  <script>
+    const addBtn = document.getElementById("addBtn");
+    const list = document.getElementById("list");
+
+    addBtn.addEventListener("click", () => {
+      const li = document.createElement("li");
+      li.textContent = "Neues Element";
+      list.appendChild(li);
+    });
+  </script>
+
+</body>
+</html>
